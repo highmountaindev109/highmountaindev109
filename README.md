@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## Contact 
 <div>
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/highmountaindev109/highmountaindev109/blob/output/github-contribution-grid-snake.svg)
 </div>

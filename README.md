@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+</br>
 <div>
   <a href="https://github.com/eagrundy">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>

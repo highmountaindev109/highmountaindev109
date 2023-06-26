@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm a Full-stack developer with 7 years of experience in Web & Mobile Development.
-
+</br>
 <!--
 **highmountaindev109/highmountaindev109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</br>
 <div>
   <a href="https://github.com/eagrundy">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>

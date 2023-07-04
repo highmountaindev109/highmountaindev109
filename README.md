@@ -27,6 +27,18 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=highmountaindev109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
+## 🔎 Github Stats
+<p align = "center">
+  <img src = "https://github-readme-stats-eight-theta.vercel.app/api?username=highmountaindev109&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=chartreuse-dark&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=highmountaindev109&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=highmountaindev109&hide_border=true&theme=chartreuse-dark&langs_count=9&range=last_7_days" width = 420 >
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=highmountaindev109&theme=chartreuse-dark" width="100%"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=highmountaindev109&label=Views&style=for-the-badge&color=252D3B" alt="jxareas' profile views" />
+</p>
+
 ## Skills
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">

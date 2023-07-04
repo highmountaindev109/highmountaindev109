@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm a Full-stack developer with 7 years of experience in Web & Mobile Development.
 
-<div flex align="center">
+<div display="flex" align="center">
   <div>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>

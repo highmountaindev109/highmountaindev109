@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 -->
 
 </br>
-<div align="center">
-  <a href="https://github.com/highmountaindev109">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highmountaindev109&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=highmountaindev109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
 
 ## 🔎 Github Stats
 <p align = "center">

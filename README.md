@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src = "https://github-readme-stats-eight-theta.vercel.app/api?username=highmountaindev109&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=highmountaindev109&theme=chartreuse-dark&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=highmountaindev109&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=highmountaindev109&hide_border=true&theme=chartreuse-dark&langs_count=9&range=last_7_days" width = 420 >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=chartreuse-dark&langs_count=9&range=last_7_days" width = 420 >
 
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=highmountaindev109&theme=chartreuse-dark" width="100%"/>

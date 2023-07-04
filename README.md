@@ -39,10 +39,10 @@ Here are some ideas to get you started:
   <code><a href="https://react.dev/"><img title="React" height="25" src="./assets/img/react.svg"></a></code>  
   <code><a href="https://sass-lang.com/"><img title="SASS" height="25" src="./assets/img/sass.svg"></a></code>
   <code><a href="https://www.r-project.org"><img title="R" height="25" src="assets/img/r.svg"></a></code>
-  <code><a href="https://powerbi.microsoft.com/en-au/"><img title="Power BI" height="25" src="assets/img/powerbi.png"></a></code>
+  <code><a href="https://powerbi.microsoft.com/en-au/"><img title="Power BI" height="25" src="assets/img/powerbi.svg"></a></code>
   <code><a href="https://www.postgresql.org"><img title="PostgreSQL" height="25" src="assets/img/postgresql.svg"></a></code>
   <code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img title="SQL Server" height="25" src="./assets/img/sql_server.svg"></a></code>
-  <code><a href="https://www.sqlite.org/index.html"><img title="SQLite" height="25" src="assets/img/sqlite.png"></a></code>
+  <code><a href="https://www.sqlite.org/index.html"><img title="SQLite" height="25" src="assets/img/sqlite.svg"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/html"><img title="HTML5" height="25" src="./assets/img/html5.svg"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img title="CSS" height="25" src="./assets/img/css.svg"></a></code>
   <code><a href="https://git-scm.com"><img title="Git" height="25" src="assets/img/git-original.svg"></a></code>

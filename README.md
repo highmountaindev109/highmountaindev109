@@ -2,8 +2,6 @@
 ### I'm a Full-stack developer with 7 years of experience in Web & Mobile Development.
 
 <div align="center">
-    ![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif))
-    <br>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 

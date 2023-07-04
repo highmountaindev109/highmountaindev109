@@ -6,7 +6,7 @@ Howdy!
 <p align="center">I'm a Full-stack developer with 10 years of experience in Web & Mobile Development.</p>
 
 <div align="center">
-    ![myfile]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif])
+    ![myfile](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
     <br>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" play="auto" />
 </div>

@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   <code><a href="https://git-scm.com"><img title="Git" height="25" src="assets/img/git-original.svg"></a></code>
   <code><a href="https://github.com"><img title="GitHub" height="25" src="assets/img/github.svg"></a></code> 
 </p>
+
 ## 🔎 Github Stats
 <p align = "center">
   <img src = "https://github-readme-stats-eight-theta.vercel.app/api?username=highmountaindev109&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" width = 400>

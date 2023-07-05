@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🦾 My Techs
 
-<p align="center" style="line-height: normal;">
+<p align="center">
   <code><a href="https://www.java.com/en/"><img title="Java" height="25" src="assets/img/java-original.svg"></a></code>
   <code><a href="https://spring.io"><img title="Spring" height="25" src="./assets/img/spring.svg"></a></code>
   <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img title="C#" height="25" src="./assets/img/cSharp.svg"></a></code>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/html"><img title="HTML5" height="25" src="./assets/img/html5.svg"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img title="CSS" height="25" src="./assets/img/css.svg"></a></code>
   <code><a href="https://git-scm.com"><img title="Git" height="25" src="assets/img/git-original.svg"></a></code>
-  <code><a href="https://github.com"><img title="GitHub" height="25" src="assets/img/github.svg"></a></code> 
+  <code style="line-height: normal;"><a href="https://github.com"><img title="GitHub" height="25" src="assets/img/github.svg"></a></code> 
 </p>
 
 ## 🔎 Github Stats

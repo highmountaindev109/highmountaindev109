@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🦾 My Techs
 
-<p align="center">
+<p align="center" style="line-height: normal;">
   <code><a href="https://www.java.com/en/"><img title="Java" height="25" src="assets/img/java-original.svg"></a></code>
   <code><a href="https://spring.io"><img title="Spring" height="25" src="./assets/img/spring.svg"></a></code>
   <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img title="C#" height="25" src="./assets/img/cSharp.svg"></a></code>

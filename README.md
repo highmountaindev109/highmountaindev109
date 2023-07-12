@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=highmountaindev109&label=Views&style=for-the-badge&color=252D3B" alt="highmountaindev109' profile views" />
 </p>
 
-## 🎧Contact 
+## 🎧 Contact 
 <div>
   <a href="https://www.linkedin.com/in/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

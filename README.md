@@ -6,7 +6,7 @@ Howdy!
 <p align="center">🔥 I'm a Full Stack Developer with 6+ years of experience in Web & Mobile Development.</p>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" play="auto" />
+    
     <svg
       xmlns="http://www.w3.org/2000/svg"
       preserveAspectRatio="none"

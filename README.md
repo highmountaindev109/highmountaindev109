@@ -3,7 +3,7 @@ Howdy!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">I'm a Full-stack & Shopify developer with 5+ years of experience in Web & Mobile Development.</p>
+<p align="center">I'm a Full-stack Web & Mobile developer with 6+ years of experience in Web & Mobile Development.</p>
 
 <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" play="auto" />

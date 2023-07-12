@@ -6,10 +6,7 @@ Howdy!
 <p align="center">🔥 I'm a Full Stack Developer with 6+ years of experience in Web & Mobile Development.</p>
 
 <div align="center">
-    
-    <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" version="1.1" viewBox="0 0 2560 100" x="0"y="0">
-        <polygon points="2560 0 2560 100 0 100" />
-    </svg>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" play="auto" />
 </div>
 
 <!--
